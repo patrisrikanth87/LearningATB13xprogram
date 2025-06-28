@@ -14,7 +14,7 @@ public class Lab034_Char_Literals {
         char new_line = '\n';
         char tab_line = '\t';
         char back_space = '\b';
-        char carriage return = '\r';
+        char carriage_return = '\r';
 
 
         System.out.println("srikanthpatri");
